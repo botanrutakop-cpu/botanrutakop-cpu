@@ -1,5 +1,5 @@
-## Hi there, my name is ⬜⬜⬜⬜⬜⬜ 👋
-Welcome!!!! 
+## Hi there, my name is Bogdan 👋
+Welcome!!!!
 im 17 years old, italian 😎, and im currently learning how to Python code and IoT 
 
 ## Tools im learning
